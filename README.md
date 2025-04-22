@@ -77,6 +77,15 @@ To design the logo for Duskfire Chronicles, I followed the creative thinking met
 [![genpipeline][images-fig7]](https://example.com)
 
 *Figure 7. Color palettes for the logo*
+This deep blue represents the mystery, depth, and isolation of Frostend. It’s the color of the unknown ancient truths buried in ice and time. It also anchors the logo with a serious, bold foundation, symbolizing weight and legacy.
+
+This cool teal evokes glacial magic, serenity, and hidden energy. It reflects the cold but enchanted terrain of Frostend and hints at the mystical powers awakening beneath the surface. It also visually balances fire and warmth with calm and clarity.
+
+This orange brings in fire, courage, and transformation to the “Duskfire” itself. It symbolizes Nia’s power and the spark of resistance, as well as the beginning of a new era. It provides emotional heat and eye-catching contrast in the logo.
+
+This pale shade acts as the glow from both fire and sigils. It represents illumination, truth, and ancestral echoes. It softens the logo’s intensity while still tying it to the magical warmth and wisdom passed down through generations.
+
+This green-leaning deep teal adds a sense of grounding, survival, and elemental connection especially tied to Tyrell’s earth-based powers and technological insight. It reflects strength, growth, and the hidden structure of the world.
 
 [![genpipeline][images-fig8]](https://example.com)
 
