@@ -24,8 +24,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center"> Logo Generative Pipeline  </h3>
 
   <p align="center">
-    Using generative Ai webistes i wanted to discover if AI is bias to certain hairtypes or is it not good for hair at all. 
-    <br />
+    Using the creative thinking methodology to generaite a logo for my game Duskfire Chronicles.
     <br />
     <br />
     <a href="https://jhopson1.myportfolio.com/">Justin Hopson</a>
@@ -39,7 +38,8 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 *Figure 1. This is my final resluts of what i believe each hair types fully represents from each genrative images.
 <!-- Abstract -->
 ## Abstract
-From an extension of the last assignment, I was working on if AI can accurately generate kinky hair. For assignment 2 I will be using generative methods to figure if AI is really biased towards kinky hair or is it not good for generating any hair type. “While there are always differences from ethnic blending or genetic differences, hair types fall under three main ‘ethnic’ types: Asian, Caucasian and African/Caribbean”(1). Using these three types I concluded that using AI isn't really great with any race and wouldn't necessarily recommend it for hair ideas.
+Using the creative thinking methodology my goal is to focus on creating a logo for my body of work. With this method I will have to be able to define, research, ideate, prototype and implement to get my final results. Using this method will not only help me make the logo but can help anyone stuck in any design type of situation. After utilizing the creative thinking methodology I was able to have a great result that can be used not only for making logos but for any design problem. 
+
 
 
 
@@ -47,7 +47,7 @@ From an extension of the last assignment, I was working on if AI can accurately 
 ## Introduction and Related Works
 
 [![genpipeline][images-fig2]](https://example.com)
-*Figure 2. This is a more detail version of different hairtypes and its explaination.*
+*Figure 2. Creative thinking method Chart.*
 
 
 The creative thinking methodology is all about developing innovative solutions to problems. Creative thinkers brainstorm not only a large number of ideas but also a variety and range of them, then experiment with those ideas to find what works best (“Creative Thinking”). I first learned this approach during my undergraduate studies, and I found myself returning to it when I was struggling to create a logo for Duskfire Chronicles. Most designers rely on the design thinking process, which follows a more structured, linear path. However, I needed something more flexible. Creative thinking gave me the freedom to explore different styles, themes, and meanings, especially when working within fantasy and Afrofuturist aesthetics.
@@ -55,20 +55,20 @@ The creative thinking methodology is all about developing innovative solutions t
 ## Methodology
 [![genpipeline][images-fig3]](https://example.com)
 
-*Figure 3.  My first attempt of different women hairtypes from 1a to 4c(SmartHairAI)*
+*Figure 3.  logo sketching to final process.*
 
 [![genpipeline][images-fig4]](https://example.com)
 
-*Figure 4.  My first attempt of different asian women hairstypes from 1a to 3a(SmartHairAI)*
+*Figure 4. Multiple Logo Game Designs*
 
 
 [![genpipeline][images-fig5]](https://example.com)
 
-*Figure 5.  My first attempt of different white women hairtypes from 1a to 3c(SmartHairAI)*
+*Figure 5. Past to Present Logo Designs*
 
 [![genpipeline][images-fig6]](https://example.com)
 
-*Figure 6. My first attempt of different black women hairtypes from 2a to 4c(SmartHairAI)*
+*Figure 6. Explaination of what i want my logo to represent*
 
 
 To design the logo for Duskfire Chronicles, I followed the creative thinking methodology, which includes five key stages: define, research, ideate, prototype, and implement. I began by defining the core goals of the logo: it needed to feel bold, mysterious, and representative of the game’s fantasy setting and Afrofuturist influences. I also wanted the logo to stand out among other indie game titles while still fitting within the fantasy genre.Next, I moved into the research phase. I explored other game logos, particularly those with elemental or mystical themes, and gathered references from dark fantasy concept art, typography books, and Afrofuturist visuals. This research helped me understand the visual language I wanted to experiment with and gave me a foundation for my design choices (Puccio et al. 35).During ideation, I brainstormed and listed keywords, visual themes, and possible shapes that represented the narrative and atmosphere of Duskfire. I sketched different concepts and font styles, intentionally allowing for creative freedom without judgment (Runco and Acar 66). These raw sketches helped form the basis of my prototypes. I then used Procreate to build out several digital prototypes. These were not final designs but visual tests that allowed me to combine fonts, color gradients, and symbolic elements like fire, dusk, and ancient markings. I iterated multiple times, refining what worked and setting aside what didn’t. While I haven’t reached the final implementation stage, this methodology has kept me grounded and creatively open. It emphasized experimentation and evolution over perfection—a mindset that makes it easier to take creative risks and return to ideas with fresh perspective (Leonard and Swap 112).
@@ -76,19 +76,17 @@ To design the logo for Duskfire Chronicles, I followed the creative thinking met
 
 [![genpipeline][images-fig7]](https://example.com)
 
-*Figure 7.  My second attempt at different women hairtypes from 1a to 4c(Night Cafe Studio)*
+*Figure 7. Color palettes for the logo*
 
 [![genpipeline][images-fig8]](https://example.com)
 
-*Figure 8.  My second attempt at different asian women hairstypes from 1a to 3a(Night Cafe Studio)*
+*Figure 8. First sketches*
 
 [![genpipeline][images-fig9]](https://example.com)
 
-*Figure 9.  My second attempt at different white women hairstypes from 1a to 3a(Night Cafe Studio)*
+*Figure 9.  Graph of logos and how they progressed over time*
 
-[![genpipeline][images-fig10]](https://example.com)
 
-*Figure 10.  My second attempt at different black women hairstypes from 2a to 4c(Night Cafe Studio)*
 
 ## Result and Future Work
 
@@ -101,6 +99,10 @@ By applying the creative thinking methodology define, research, ideate, prototyp
 
 
 Working on the Duskfire Chronicles logo using the creative thinking methodology helped me reconnect with a more open, experimental approach to design. By defining my goals, researching references, and allowing myself to freely ideate and prototype, I moved past creative blocks and embraced exploration. Although the logo is still in development, the process has already strengthened my visual storytelling and creative confidence. This experience reminded me that strong design doesn’t come from rushing to a final product, but from refining ideas through curiosity, flexibility, and feedback. I plan to use this mindset in future creative and professional projects, including other branding elements in the Duskfire universe.
+
+[![genpipeline][images-fig10]](https://example.com)
+
+*Figure 10. Game title screen with Logo*
 
 <!-- Bibliography -->
 ## Bibliography
