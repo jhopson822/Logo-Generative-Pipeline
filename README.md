@@ -1,4 +1,4 @@
-# Creative-Generative-Pipeline_03
+#  Logo Creative-Generative-Pipeline_03
 Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -50,10 +50,7 @@ From an extension of the last assignment, I was working on if AI can accurately 
 *Figure 2. This is a more detail version of different hairtypes and its explaination.*
 
 
-After assignment 1 i had an interesting time figuring out if AI can fully understand what 4c hair is and can it replicate what it truly looks like. But this made me think, can AI generate other ethnicities with different types of hair or is it biased towards specific ethnicities. In the past AI can generate types of hair but to my knowledge from my previous analysis it cant fully understand what it is to have kinky, straight or wavy hair differences. I'm here to challenge that theory and really see if it can or not. “While there are always differences from ethnic blending or genetic differences, hair types fall under three main ‘ethnic’ types: Asian, Caucasian and African/Caribbean”(1). My original plan was to focus on more ethnicities but after learning this I figured my results would still be accurate. “While each ethnicity brings its unique characteristics to the table, the universal language of hair care remains consistent. Whether curly, wavy, or straight, every strand deserves love, care, and understanding”(2). This is why it's important to show each type of hair for everybody and that AI shouldn't be biased against any type of hair.
-
-
-
+The creative thinking methodology is all about developing innovative solutions to problems. Creative thinkers brainstorm not only a large number of ideas but also a variety and range of them, then experiment with those ideas to find what works best (“Creative Thinking”). I first learned this approach during my undergraduate studies, and I found myself returning to it when I was struggling to create a logo for Duskfire Chronicles. Most designers rely on the design thinking process, which follows a more structured, linear path. However, I needed something more flexible. Creative thinking gave me the freedom to explore different styles, themes, and meanings, especially when working within fantasy and Afrofuturist aesthetics.
 
 ## Methodology
 [![genpipeline][images-fig3]](https://example.com)
@@ -74,7 +71,7 @@ After assignment 1 i had an interesting time figuring out if AI can fully unders
 *Figure 6. My first attempt of different black women hairtypes from 2a to 4c(SmartHairAI)*
 
 
-For my process I began to use one of the free websites that I used last time. I thought it would be great since it's specifically for hairstyles and anyone can access it. The website asked for a hair pattern, inspired by, persona, hair length and angle. For each hair pattern I put in the hair type 1A to 4C and explained each one from straight to kinky. For the inspired prompt, I kept it in North America since that's not the main focus. For the persona prompt I chose either an asian woman, white woman, black woman and just a woman. Hair length i left it long and face angle front which are both the default. My first trial was with no specific ethnic just a woman that AI thinks what each hair type is. For the Asian women prompt I used the same text but only went up to 3a since “While straight hair is the most common hair type in East Asia, curly hair is not rare. It’s simply less prevalent due to the specific genetic  makeup of the majority of the population”(3).knowing these I wanted to show that they can have 3a hair just not the other types. For the white women hair types I went from 1a to 3c to show that they can have straight wavy and curly hair. And for black women's hair types I went from 2a to 4c. Straight hair isn't common and all and most of african hair has some type of volume or curl in it. For the second website I used another familiar one I used on the last project but this time I actually paid for it to see the different results of free and paid AI generators by using the same verbiage as both.
+To design the logo for Duskfire Chronicles, I followed the creative thinking methodology, which includes five key stages: define, research, ideate, prototype, and implement. I began by defining the core goals of the logo: it needed to feel bold, mysterious, and representative of the game’s fantasy setting and Afrofuturist influences. I also wanted the logo to stand out among other indie game titles while still fitting within the fantasy genre.Next, I moved into the research phase. I explored other game logos, particularly those with elemental or mystical themes, and gathered references from dark fantasy concept art, typography books, and Afrofuturist visuals. This research helped me understand the visual language I wanted to experiment with and gave me a foundation for my design choices (Puccio et al. 35).During ideation, I brainstormed and listed keywords, visual themes, and possible shapes that represented the narrative and atmosphere of Duskfire. I sketched different concepts and font styles, intentionally allowing for creative freedom without judgment (Runco and Acar 66). These raw sketches helped form the basis of my prototypes. I then used Procreate to build out several digital prototypes. These were not final designs but visual tests that allowed me to combine fonts, color gradients, and symbolic elements like fire, dusk, and ancient markings. I iterated multiple times, refining what worked and setting aside what didn’t. While I haven’t reached the final implementation stage, this methodology has kept me grounded and creatively open. It emphasized experimentation and evolution over perfection—a mindset that makes it easier to take creative risks and return to ideas with fresh perspective (Leonard and Swap 112).
 
 
 [![genpipeline][images-fig7]](https://example.com)
@@ -95,7 +92,7 @@ For my process I began to use one of the free websites that I used last time. I 
 
 ## Result and Future Work
 
-After the first website generative AI i was really upset with how long it took compared to last time. I did 10 images for each hair type and it took all day for it to finally finish. I wasn't sure if it was because I overdid it or was the website just not working that well that day. For me the best result was when I asked for 1A to around 2C. After that i started to notice the website kind of drop in quality and was very hesitant to show results. Especially when dealing with black women's hair types. Two pictures wouldn't even come out and showed an error image which I had never seen before. For the second website surprisingly I did better after in the 3a to 4c. With the straight hair it focused on making the image look different instead of focusing on the actual hair type. As my final result I feel like I got tired of using generative AI machines which made me not sure if i want to continue again. I also wouldn't recommend using it for figuring hair types of any ethnicities.
+By applying the creative thinking methodology define, research, ideate, prototype, and implement I’ve developed multiple logo sketches for Duskfire Chronicles using Procreate. I defined the logo’s goal around themes of fantasy and transformation, researched similar works, and ideated through word associations and sketches. My prototypes reflect variations in typography, elemental symbols, and tone. While I haven’t implemented the final logo yet, I now have a clear direction. Next, I’ll refine the top drafts, test them across media, and seek feedback before choosing the final version. I also want to see how the logo appears on mockups, such as a title screen or merchandise. This method helped me stay open to discovery while still working with intent. I’ve also created visual maps and graphs to show how my logo progressed, which has helped organize my ideas and better understand how each branch grew from the original sketches. These tools support continued growth, showing that the creative thinking methodology thrives when paired with reflection and iteration.
 
 
 
@@ -103,24 +100,19 @@ After the first website generative AI i was really upset with how long it took c
 ## Conclusion
 
 
-My concluding research is I can't really see anyone else using these methods for different hair types. I do feel like it's not just biased towards 4A to 4c hair types but isn't good for any hair type someone has. It could've been the websites but honestly i think the majority of the users that want to see hair types for different ethnicities wouldn't dig that deep enough and would probably just use google which is faster and more easy access.
-
+Working on the Duskfire Chronicles logo using the creative thinking methodology helped me reconnect with a more open, experimental approach to design. By defining my goals, researching references, and allowing myself to freely ideate and prototype, I moved past creative blocks and embraced exploration. Although the logo is still in development, the process has already strengthened my visual storytelling and creative confidence. This experience reminded me that strong design doesn’t come from rushing to a final product, but from refining ideas through curiosity, flexibility, and feedback. I plan to use this mindset in future creative and professional projects, including other branding elements in the Duskfire universe.
 
 <!-- Bibliography -->
 ## Bibliography
-[1] Baby. (2024, May 6). Understanding different hair types across ethnicities. Baby Hair. https://mybabyhair.com/understanding-hair-types-across-ethnicities-differences-commonalities-and-universal-needs/
+[1] Brown, Tim. Change by Design: How Design Thinking Creates New Alternatives for Business and Society. Harvard Business Review Press, 2009.
  
 
-[2] Kook Multimedia. (n.d.). How to formulate for different ethnic hair types. https://personalcarescience.com.au/Workshops/cosmeticscienceworkshops-2110/Blog-4192/Haircareethnicity-7659/
+[2] Leonard, Dorothy, and Walter Swap. When Sparks Fly: Igniting Creativity in Groups. Harvard Business School Press, 1999.
 
 
-[3] Turner, E., & Turner, E. (2024, December 19). Curly hair mystery solved: Can Asians have curly hair naturally? HairSpeaks. https://hairspeaks.net/35805/can-asians-have-curly-hair-naturally/
+[3] Puccio, Gerard J., et al. Creative Leadership: Skills That Drive Change. 2nd ed., SAGE Publications, 2011.
 
-
-[4]. NightCafe Studio. AI Hairstyle Generator. NightCafe Studio, https://creator.nightcafe.studio/trend/ai-hairstyle-generator. Accessed 1 Mar. 2025.
-
-
-[5] SmartHair AI. AI Hairstyle Generator. SmartHair AI, https://smarthair.ai/#generator. Accessed 1 Mar. 2025.
+[4] “Creative Thinking.” Lumen Learning, https://courses.lumenlearning.com/waymaker-collegesuccess/chapter/creative-thinking/. Accessed 22 Apr. 2025.
 
 
 
@@ -138,7 +130,7 @@ Personal Website: (https://jhopson1.myportfolio.com/)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This work is submitted as part of Assignment 2 for the VIZA 626 course at Texas A&M University, under the instruction of Professor You-Jin Kim, during the Spring 2025 semester.
+This work is submitted as part of Assignment 3 for the VIZA 626 course at Texas A&M University, under the instruction of Professor You-Jin Kim, during the Spring 2025 semester.
 
 VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.google.com/view/viza626/home)
 
