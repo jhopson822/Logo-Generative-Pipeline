@@ -77,6 +77,7 @@ To design the logo for Duskfire Chronicles, I followed the creative thinking met
 [![genpipeline][images-fig7]](https://example.com)
 
 *Figure 7. Color palettes for the logo*
+
 This deep blue represents the mystery, depth, and isolation of Frostend. It’s the color of the unknown ancient truths buried in ice and time. It also anchors the logo with a serious, bold foundation, symbolizing weight and legacy.
 
 This cool teal evokes glacial magic, serenity, and hidden energy. It reflects the cold but enchanted terrain of Frostend and hints at the mystical powers awakening beneath the surface. It also visually balances fire and warmth with calm and clarity.
