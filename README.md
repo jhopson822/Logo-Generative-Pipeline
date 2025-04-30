@@ -25,6 +25,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
   <p align="center">
     Using the creative thinking methodology to generaite a logo for my game Duskfire Chronicles.
+     <a href="https://github.com/jhopson822/4-comma-Assigment_01/blob/main/4_Comma__Duskfire_Chronicles_Shorts_CROWN%20new-compressed.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://jhopson1.myportfolio.com/">Justin Hopson</a>
