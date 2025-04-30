@@ -94,7 +94,7 @@ This green-leaning deep teal adds a sense of grounding, survival, and elemental 
 
 [![genpipeline][images-fig9]](https://example.com)
 
-*Figure 9.  Graph of logos and how they progressed over time*
+*Figure 9.  Prototype Iterations*
 
 
 
