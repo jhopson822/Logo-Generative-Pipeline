@@ -36,7 +36,7 @@ Assignment 3 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 
 [![genpipeline][images-fig1]](https://example.com)
 
-*Figure 1. This is my final resluts of what i believe each hair types fully represents from each genrative images.
+*Figure 1. This is my final results for my logo.
 <!-- Abstract -->
 ## Abstract
 Using the creative thinking methodology my goal is to focus on creating a logo for my body of work. With this method I will have to be able to define, research, ideate, prototype and implement to get my final results. Using this method will not only help me make the logo but can help anyone stuck in any design type of situation. After utilizing the creative thinking methodology I was able to have a great result that can be used not only for making logos but for any design problem. 
